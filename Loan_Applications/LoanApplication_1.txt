@@ -1,0 +1,8 @@
+Account Holder's Name: amir
+Account Number: 1
+Phone Number: 9876543211
+Credit Score: 760
+Income: 40000.0
+Loan Amount: Rs. 700000.0
+Loan Term: 24 months
+Loan Type: Home Loan

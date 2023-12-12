@@ -1,0 +1,8 @@
+Account Holder's Name: anita
+Account Number: 2
+Phone Number: 1234567890
+Credit Score: 780
+Income: 70000.0
+Loan Amount: Rs. 1500000.0
+Loan Term: 24 months
+Loan Type: Personal Loan
